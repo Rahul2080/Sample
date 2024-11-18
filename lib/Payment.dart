@@ -12,7 +12,7 @@ class _PaymentState extends State<Payment> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text("  Go to Home Page"),
+        child: Text("  Go to the  Home Page"),
       ),
     );
   }
