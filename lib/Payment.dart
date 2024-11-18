@@ -10,6 +10,10 @@ class Payment extends StatefulWidget {
 class _PaymentState extends State<Payment> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(body: Center(child: Text("Nothing in this page \n Go to Home Page"),),);
+    return Scaffold(
+      body: Center(
+        child: Text("  Go to Home Page"),
+      ),
+    );
   }
 }
